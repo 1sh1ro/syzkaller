@@ -5,7 +5,7 @@ go 1.24.4
 require (
 	cloud.google.com/go v0.121.3
 	cloud.google.com/go/batch v1.12.2
-	cloud.google.com/go/bigquery v1.67.0
+	cloud.google.com/go/bigquery v1.69.0
 	cloud.google.com/go/compute/metadata v0.7.0
 	cloud.google.com/go/logging v1.13.0
 	cloud.google.com/go/profiler v0.4.3
